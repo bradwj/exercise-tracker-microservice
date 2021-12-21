@@ -1,5 +1,4 @@
 const UserModel = require('../models/user');
-const ExerciseModel = require('../models/exercise');
 const LogModel = require('../models/log');
 
 
